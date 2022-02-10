@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>listwidget.qss</file>
+        <file>scrollbar.qss</file>
+    </qresource>
+</RCC>
